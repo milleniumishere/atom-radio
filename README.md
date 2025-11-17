@@ -1,4 +1,4 @@
-# Atom Radio
+# Atom Radio [OFFLINE]
 
 
 Un bot radio 100% français et gratuit connecté 24/7 dans votre votre serveur !
